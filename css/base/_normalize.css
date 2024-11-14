@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+    block-size: border-box;
+}
+
+*,*::after, *::before{
+    padding: 0;
+    margin: 0;
+    block-size: inherit;
+}
+
+body{
+    font-family: var(--body-font);
+}
