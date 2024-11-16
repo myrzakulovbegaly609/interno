@@ -1,0 +1,20 @@
+.menu{
+    padding: 12px 0px;
+}
+
+.menu__list{
+    display: flex;
+    align-items: center;
+    column-gap: 40px;
+}
+.menu__item a{
+    color: var(--global);
+    font-weight: 400px;
+    font-size: 20px;
+    height: 30px;
+    letter-spacing: 0.4px;
+}
+
+.menu__item a:hover{
+    color: var(--gold-text-color);
+}

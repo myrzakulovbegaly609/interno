@@ -11,3 +11,22 @@
     --body-font: "jost", sans-serif;
     --second-fond: "DM Serif Display",serif;
 }
+
+:root {
+    /* global */
+    --global: #292f36;
+    /* colors */
+    --second-text-color: #4d5053;
+    --button-text-color: #ffffff;
+    --gold-text-color: #cda274;
+  
+    /* background-colors */
+    --people-background-color: #f4f0ec;
+  
+    /* font */
+    --body-font: "Jost", sans-serif;
+    --second-font: "DM Serif Display", serif;
+  
+    /* letter-spacing */
+    --letter-spacing: 0.22px;
+  }
